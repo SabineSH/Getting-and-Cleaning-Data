@@ -16,17 +16,17 @@ In the following, the variables of the resulting dataset are described:
 
 #"Activity"
 	One of the following activities: 
-	* 1 WALKING
-	* 
+	1 WALKING
+	
 2 WALKING_UPSTAIRS
 
-	* 3 WALKING_DOWNSTAIRS
+	3 WALKING_DOWNSTAIRS
 
-	* 4 SITTING
+	4 SITTING
 
-	* 5 STANDING
+	5 STANDING
 	
-* 6 LAYING
+6 LAYING
 
 #"Subject"  
 	Subject identification (1 to 30)
