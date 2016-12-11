@@ -2,6 +2,7 @@
 ##=========================================================
 
 library(dplyr)
+library(reshape2)
 
 ## Reading the data files
 Xtest <- read.table("C:/Sabine/Coursera Data Cleaning/Assignment/UCI HAR Dataset/test/X_test.txt")
